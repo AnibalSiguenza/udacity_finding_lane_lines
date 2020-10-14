@@ -29,7 +29,7 @@ However, in order to draw a single line on the left and right lanes, I modified 
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][./test_images_output/solidYellowCurve.jpg]
+![alt text](./test_images_output/solidYellowCurve.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
